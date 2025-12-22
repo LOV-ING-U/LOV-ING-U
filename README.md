@@ -41,5 +41,8 @@ Here are some ideas to get you started:
   
   ### ETC
   Slack, GitHub
+
+  ### See my recent project progress!
+  https://github.com/LOV-ING-U/project_rainmind
   
 </div>
