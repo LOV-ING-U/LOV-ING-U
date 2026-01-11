@@ -48,5 +48,9 @@ Here are some ideas to get you started:
 
   ### My Tech blog
   - https://lov-ing-u.github.io/
+
+  ### Baekjoon & Solved.ac
+  - Baekjoon : https://www.acmicpc.net/user/kkwandy
+  - Solved.ac : https://solved.ac/profile/kkwandy
   
 </div>
