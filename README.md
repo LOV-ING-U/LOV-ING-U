@@ -34,15 +34,19 @@ Here are some ideas to get you started:
   
   ## 🧱 Tech Stack
   ### Language
-  Java, Kotlin, 
+  Java, Kotlin, C 
   
   ### Framework
   Spring boot3, MySQL, Docker, Kubernetes
   
   ### ETC
-  Slack, GitHub
+  Slack, GitHub, Git
 
   ### See my recent project progress!
   - Project RainMind : https://github.com/LOV-ING-U/project_rainmind
+  - Project RainMind - FastAPI Ver. : https://github.com/LOV-ING-U/rainmind_fastapi
+
+  ### My Tech blog
+  - https://lov-ing-u.github.io/
   
 </div>
