@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   ### See my recent project progress!
   - Project RainMind : https://github.com/LOV-ING-U/project_rainmind
   - Project RainMind - FastAPI Ver. : https://github.com/LOV-ING-U/rainmind_fastapi
+  - SNUXI(Team Project) : https://github.com/wafflestudio/23-5-team3-server
 
   ### My Tech blog
   - https://lov-ing-u.github.io/
