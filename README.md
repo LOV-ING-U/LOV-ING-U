@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   Java, Kotlin, C 
   
   ### Framework
-  Spring boot3, MySQL, Docker, Kubernetes
+  Spring boot3, MySQL, Docker, Kubernetes, Redis, WebSocket
   
   ### ETC
   Slack, GitHub, Git
