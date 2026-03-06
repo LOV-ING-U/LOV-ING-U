@@ -31,6 +31,10 @@ Here are some ideas to get you started:
   #### I aim to become a backend developer.
   <br/>
   <br/>
+
+  ## Career
+  **NAVER LABS Corp.** Robot Web Application Developer, Intern (2026.03 ~ 2026.09)
+  <br/>
   
   ## 🧱 Tech Stack
   ### Language
