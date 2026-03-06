@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   ## Career
   **NAVER LABS Corp.** Robot Web Application Developer, Intern (2026.03 ~ 2026.09)
   <br/>
+  <br/>
   
   ## 🧱 Tech Stack
   ### Language
