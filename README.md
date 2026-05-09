@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   
   ## 🧱 Tech Stack
   ### Language
-  Java, Kotlin, C 
+  Java, Kotlin, C, OCaml
   
   ### Framework
   Spring boot3, MySQL, Docker, Kubernetes, Redis, WebSocket
