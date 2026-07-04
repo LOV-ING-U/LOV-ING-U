@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   - SNUXI(Team Project) : https://github.com/wafflestudio/23-5-team3-server
 
   ### My Tech blog
-  - https://lov-ing-u.github.io/
+  - 
 
   ### Baekjoon & Solved.ac
   - Baekjoon : https://www.acmicpc.net/user/kkwandy
