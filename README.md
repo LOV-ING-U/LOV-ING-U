@@ -28,7 +28,6 @@ Here are some ideas to get you started:
   
   ## 👀 About Me
   #### Seoul National University(SNU), Computer Science and Engineering
-  #### I aim to become a backend developer.
   <br/>
   <br/>
 
@@ -42,7 +41,7 @@ Here are some ideas to get you started:
   Java, Kotlin, C, OCaml
   
   ### Framework
-  Spring boot3, MySQL, Docker, Kubernetes, Redis, WebSocket
+  Spring boot3, MySQL, Docker, Kubernetes
   
   ### ETC
   Slack, GitHub, Git
