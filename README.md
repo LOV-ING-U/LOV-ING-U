@@ -52,6 +52,7 @@ Here are some ideas to get you started:
   - SNUXI(Team Project) : https://github.com/wafflestudio/23-5-team3-server
   - SWPP(SNU Course) Team Project : https://github.com/LOV-ING-U/swpp-2026-02-team14
   - Simple FTL Simulator : https://github.com/LOV-ING-U/ftl-simulator
+  - StyleMate: https://github.com/snuhcs-course/swpp-2026-project-team-14
 
   ### My Tech blog
   - https://lov-ing-u.github.io/
