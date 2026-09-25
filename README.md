@@ -50,9 +50,8 @@ Here are some ideas to get you started:
   - Project RainMind : https://github.com/LOV-ING-U/project_rainmind
   - Project RainMind - FastAPI Ver. : https://github.com/LOV-ING-U/rainmind_fastapi
   - SNUXI(Team Project) : https://github.com/wafflestudio/23-5-team3-server
-  - SWPP(SNU Course) Team Project : https://github.com/LOV-ING-U/swpp-2026-02-team14
+  - SWPP(SNU Course) Team Project - StyleMate : https://github.com/LOV-ING-U/swpp-2026-02-team14
   - Simple FTL Simulator : https://github.com/LOV-ING-U/ftl-simulator
-  - StyleMate: https://github.com/snuhcs-course/swpp-2026-project-team-14
 
   ### My Tech blog
   - https://lov-ing-u.github.io/
